@@ -1,5 +1,7 @@
 # Fitness-Training
 
+## [Inbody Record](https://github.com/YenKang/Fitness-Training/blob/main/InBody%20Review.md)
+
 Course        | Week | 訓練部位 | 訓練動作 | 教練
 ------------  | ----  | ---  | ---  | ---
 C01    | Wk1 |  背+二頭 | 中背推+中被拉+上被推+上背拉+下背推+二頭彎舉+滑輪拉繩 | Sunny
