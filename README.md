@@ -25,5 +25,5 @@ C18    | Wk9 (日) (01/16)|   背   |  滑輪下拉+坐姿後拉+坐姿划船後
 C19    | Wk10 |   放鬆(2)  | 肩 (棘下肌+棘上肌+提肩夾肌)+背(大小圓+擴背肌+前鉅肌) | Brandon
 C19    | Wk11 |   放鬆(3)  | 胸 (胸小+前束+中束+二頭+胸大)   | Brandon
 C20    | Wk11 |   下肢  |   | Olie
-C21    | Wk11 |   背  |    | Subby
-C22    | Wk12 (四) (02/03)|   下肢  | vSquat+史密斯硬舉+髖外舉+髖內夾    | Olie
+C21    | Wk11 |   背  |    | Sunny
+[C22](https://github.com/YenKang/Fitness-Training/blob/main/Course/%5BC22%5D%E4%B8%8B%E8%82%A2.md)    | Wk12 (四) (02/03)|   下肢  | vSquat+史密斯硬舉+髖外舉+髖內夾    | Olie
