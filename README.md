@@ -29,7 +29,7 @@ C21    | Wk11 |   背  | 坐姿單手划船後拉+ [坐姿雙手划船後拉](ht
 [C22](https://github.com/YenKang/Fitness-Training/blob/main/Course/%5BC22%5D%E4%B8%8B%E8%82%A2.md)    | Wk12 (四) (02/03)|   下肢  | vSquat+史密斯硬舉+髖外舉+髖內夾    | Olie
 C23    | Wk12(02/11) |  背  | 滑輪下拉+坐姿划船+寬握划船+窄握划船  | Olie
 C24    | Wk12(02/13) |  下肢(硬舉)  | 傳統硬舉+相撲硬舉+架上硬舉  | Brandon
-C25    | Wk13(02/15)(二)? |  )  |   |Olie
+C25    | Wk13(02/15)(二)? |    |   |Olie
 C26    | Wk13(02/17) |    |   | Sunny
 C27    | Wk14(02/22)(二) |    |   | Brandon
 C28    | Wk15(02/28)(一) |    |   | Brandon
