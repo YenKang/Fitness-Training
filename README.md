@@ -28,8 +28,9 @@ C20    | Wk11 |   下肢  | 腿推+站姿單腿後勾+俯姿雙腿後勾+Csquat 
 C21    | Wk11 |   背  | 坐姿單手划船後拉+ [坐姿雙手划船後拉](https://www.youtube.com/watch?v=hI2bBv42xEo&t=102s&ab_channel=%E9%A1%8F%E6%85%B7)   | Sunny
 [C22](https://github.com/YenKang/Fitness-Training/blob/main/Course/%5BC22%5D%E4%B8%8B%E8%82%A2.md)    | Wk12 (四) (02/03)|   下肢  | vSquat+史密斯硬舉+髖外舉+髖內夾    | Olie
 C23    | Wk12(02/11) |  背  | 滑輪下拉+坐姿划船+寬握划船+窄握划船  | Olie
-C24    | Wk12(02/13) |  下肢(硬舉)  | 傳統硬舉+相撲硬舉+架上硬舉  | Brandon
-C25    | Wk13(02/15)(二)? |    |   |Olie
-C26    | Wk13(02/17) |    |   | Sunny
-C27    | Wk14(02/22)(二) |    |   | Brandon
-C28    | Wk15(02/28)(一) |    |   | Brandon
+C24    | Wk13(02/13) |  下肢(硬舉)  | 傳統硬舉+相撲硬舉+架上硬舉  | Brandon
+C25    | Wk13(02/17) |  背  | 划船+下拉+反握划船+窄握划船   | Sunny
+C26    | Wk14(02/20)(日) | 腿   | 腿伸+vSquat+史密斯RDL+ 腿推  | Olie
+C27    | Wk15(02/24)(四) | 放鬆(4) 下肢 | 大腿+小腿+阿基里斯腱  | Brandon
+C28    | Wk15(02/24)(四) | 放鬆(4) 下肢 | 大腿+小腿+阿基里斯腱  | Brandon
+
