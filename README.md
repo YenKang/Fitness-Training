@@ -48,7 +48,7 @@ C40    | Wk21(04/16)(六) | 放鬆(7) | 筋膜刀刮大腿+股四頭+股二頭  
 C41    | Wk22(04/18)(一) | 下肢 |深蹲+vSquat+腿伸  | Sunny
 C42    | Wk22(04/21)(四) | 胸 | 中胸+上胸+下胸+夾胸  | Olie
 C43    | Wk23(04/28)(四) | 下肢  | 深蹲+vSquat+腿推  | Sunny
-[C44](https://github.com/YenKang/Fitness-Training/blob/main/Course/%5BC44%5D%E4%B8%8B%E8%82%A2_%E6%B7%B1%E8%B9%B2.md)    | Wk24(05/05)(四) |下肢  |深蹲+架上硬舉+股四頭+股二頭  | Sunny
+[C44](https://github.com/YenKang/Fitness-Training/blob/main/Course/%5BC44%5D%E4%B8%8B%E8%82%A2_%E6%B7%B1%E8%B9%B2.md)    | Wk24(05/05)(四) |下肢 | [深蹲](https://www.youtube.com/shorts/8EzDry94NPw)+[架上硬舉](https://www.youtube.com/watch?v=g95GtjA6i08&t=18s)+[股四頭](https://www.youtube.com/watch?v=2uDd419cBC4&t=2s)+[股二頭](https://www.youtube.com/shorts/WVDMa4FHLOw)  | Sunny
 C45    | Wk24(05/08)(日) | 20:00  |  | Sunny
 C46    | Wk25(05/10)(二) | 21:00  |  | Olie
 C47    | Wk25(05/12)(四) | 21:00  |  | Brandon
