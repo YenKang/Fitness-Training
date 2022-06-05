@@ -51,7 +51,7 @@ C43    | Wk23(04/28)(四) | 下肢  | 深蹲+vSquat+腿推  | Sunny
 [C44](https://github.com/YenKang/Fitness-Training/blob/main/Course/%5BC44%5D%E4%B8%8B%E8%82%A2_%E6%B7%B1%E8%B9%B2.md)    | Wk24(05/05)(四) |下肢 | [深蹲](https://www.youtube.com/shorts/8EzDry94NPw)+[架上硬舉](https://www.youtube.com/watch?v=g95GtjA6i08&t=18s)+[股四頭](https://www.youtube.com/watch?v=2uDd419cBC4&t=2s)+[股二頭](https://www.youtube.com/shorts/WVDMa4FHLOw)  | Sunny
 C45    | Wk24(05/08)(日) | 下肢  | 硬舉+架上硬舉+弓箭步 | Sunny
 C46    | Wk25(05/12)(四) | 肩膀  | 後三角cable+啞鈴飛鳥+啞鈴肩推 | Brandon
-C48    | Wk26(05/19)(四) | 20:00  |  | Sunny
-C49    | Wk27(05/23)(一) | 21:00  |  | Brandon
-C50    | Wk27(05/26)(四) | 22:00  |  | Sunny
+C47    | Wk26(05/19)(四) | 20:00  |  | Sunny
+C48    | Wk27(05/23)(一) | 21:00  |  | Brandon
+C49    | Wk27(05/26)(四) | 22:00  |  | Sunny
 
